@@ -259,7 +259,7 @@ http://www.templatemo.com/tm-498-stimulus
                               </div>
                               <div class="media-body">
                                    <h3 class="media-heading">Bachelor of Engineering </h3>
-                                   <p class="color-white">Bachelor of Engineering in Mechanical Engineering from Rashtasanta Tukudoji Maharaj pune University. </p>
+                                   <p class="color-white">Bachelor of Engineering in Mechanical Engineering from Rashtasanta Tukudoji Maharaj nagpur University. </p>
                               </div>
                          </div>
 
